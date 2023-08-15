@@ -1,0 +1,3 @@
+# carpetas que no se subiran a GitHub
+node_modules/
+build/
